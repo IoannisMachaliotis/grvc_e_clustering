@@ -1,5 +1,5 @@
 # grvc_e_clustering 
-This repository includes the ROS implemenatation of the the event-based clustering algorithm described in the paper "**Asynchronous Event-Based Clustering and Tracking for Intrusion Monitoring in UAS**".
+This repository includes the ROS implemenatation of the event-based clustering algorithm described in the paper "**Asynchronous Event-Based Clustering and Tracking for Intrusion Monitoring in UAS**".
 
 ## Publication
 In case you use this code, please cite the following [publication](): 
@@ -9,7 +9,7 @@ Juan Pablo Rodríguez-Gómez, Augusto Gómez Eguíluz, Jose Ramiro Martínez De-
     @inproceedings{rodriguez2020asynchronous,
         title={Asynchronous Event-Based Clustering and Tracking for Intrusion Monitoring in UAS},
         author={Rodr\'{i}guez-G\'{o}mez, Juan Pablo and G\'{o}mez Egu\'{i}luz, Augusto and Martinez De-Dios, Jose Ramiro and Ollero, Anibal},
-        booktitle={20120 IEEE International Conference on Robotics and Automation (ICRA)},
+        booktitle={2020 IEEE International Conference on Robotics and Automation (ICRA)},
         year={2020},
         organization={IEEE}}
 
