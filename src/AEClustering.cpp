@@ -39,7 +39,7 @@ bool AEClustering::update(const std::deque<double> e){
     for(int ii = 0; ii < clusters.size(); ii++){
         clusters[ii].forget(tMin_);
 
-        if (clusters[ii].getN() == 0){
+        if (clusters[ii].getN() == 0 || clusters[ii].getN() > szBuffer_){
             // Remove the cluster when it is empty
             removed.push_back(ii);
         }
